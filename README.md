@@ -36,8 +36,15 @@
     - matplotlib - version 3.5.2
     - seaborn - version 0.11.2
 
+
+## Contribution
+- Vishnu Venu
+- Aishwarya Sudevan
+
+
 ## Acknowledgements
 Reference
 - https://github.com/
 - https://stackoverflow.com/
 
+### Developed as part of the Exploratory Data Analysis Module required for Executive PG Programme in Machine Learning & AI - IIIT,Bangalore.
